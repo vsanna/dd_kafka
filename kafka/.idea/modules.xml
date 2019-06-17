@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../kafka-beginners-course/src/main/main.iml" filepath="$PROJECT_DIR$/../kafka-beginners-course/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer-consumer/producerconsumer.iml" filepath="$PROJECT_DIR$/producer-consumer/producerconsumer.iml" />
+    </modules>
+  </component>
+</project>
